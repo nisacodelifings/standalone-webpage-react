@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "Cousine", monospace;
+}
+header {
+  height: 100px;
+  background-color: #333;
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main {
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  border-bottom: 2px solid blue;
+  text-decoration: none;
+}
+a:hover {
+  background: #0971f1;
+  color: white;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+a:active {
+  background: blue;
+}
+a:visited {
+  border-bottom: 2px solid #0971f1;
+}
