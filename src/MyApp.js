@@ -15,8 +15,8 @@ function MyApp() {
 
   return (
     <main>
-      <h1>Introduce</h1>
-      <h2>The new Product</h2>
+      <h1>I'm Nisa</h1>
+      <h2>and I want to Intro The new Product</h2>
       <p>
         I would Like to reccomend you something awesome to learn new framework{" "}
         <span>in this {time}</span> but, yea! it's not free. I need your support
